@@ -4,6 +4,8 @@
 #image{
     width:250px;
     height:300px;
+     margin: 50px auto; 
+    margin-left: 20px;
     background-image: url(./image2.jpeg);
     background-repeat: no-repeat;
     border:5px solid burlywood;
@@ -12,4 +14,5 @@
 #image:hover{
     background-image: url(./image1.jpeg);
 }
+
 
